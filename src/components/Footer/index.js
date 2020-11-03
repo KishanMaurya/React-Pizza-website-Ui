@@ -24,24 +24,24 @@ const Footer = () => {
           <SocialMediaWrap>
             <SocialLogo to='/'>Pizza</SocialLogo>
             <SocialIcons>
-              <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
+              <SocialIconLink href='https://www.facebook.com/kishan.maurya.9231' target='_blank' aria-label='Facebook'>
                 <FaFacebook />
               </SocialIconLink>
-              <SocialIconLink href='/' target='_blank' aria-label='Instagram'>
+              <SocialIconLink href='https://www.instagram.com/programmingbooster/' target='_blank' aria-label='Instagram'>
                 <FaInstagram />
               </SocialIconLink>
-              <SocialIconLink href='/' target='_blank' aria-label='Youtube'>
+              <SocialIconLink href='https://www.youtube.com/channel/UCAjxRHIbJvOZTuRCiYWzLPg' target='_blank' aria-label='Youtube'>
                 <FaYoutube />
               </SocialIconLink>
               <SocialIconLink
-                href='//www.twitter.com/briandesignz'
+                href='https://twitter.com/KISHANM22593264'
                 target='_blank'
                 aria-label='Twitter'
                 rel='noopener noreferrer'
               >
                 <FaTwitter />
               </SocialIconLink>
-              <SocialIconLink href='/' target='_blank' aria-label='Linkedin'>
+              <SocialIconLink href='https://github.com/KishanMaurya' target='_blank' aria-label='Linkedin'>
                 <FaLinkedin />
               </SocialIconLink>
             </SocialIcons>
